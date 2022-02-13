@@ -15,6 +15,8 @@ public class TesteFormasGeometricas {
 		
 		System.out.println("area do triangulo: " + triangulo.getArea());
 		System.out.println("area do Retangulo: " + retangulo.getArea());
+		
+		System.out.println("Teste");
 	}
 	
 }
